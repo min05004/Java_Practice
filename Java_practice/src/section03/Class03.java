@@ -7,8 +7,8 @@ public class Class03 {
 		
 		mycar2.color="red";
 		mycar2.color="black";
-		mycar1.speedUp();
-		mycar2.wiper();
+		mycar1.speedUp(); //mycar1 스피드 업
+		mycar2.wiper(); //mycar2 와이퍼 온
 		
 		System.out.println("mycard1의 색 :" + mycar1.color);
 		System.out.println("mycard2의 색 :" + mycar2.color);
