@@ -1,4 +1,4 @@
-package section06;
+package section01;
 /*
  * 
  * 숙제 7*7
@@ -41,7 +41,7 @@ package section06;
 public class ArrayHomWork {
 	public static void main(String[] args) {
 		
-		int nums[][] = {
+		/*int nums[][] = {
 					{1 , 2 , 3 , 4 , 5 , 6 , 7},
 					{8 , 9 , 10 ,11, 12 ,13, 14},
 					{15, 16, 17, 18, 19, 20, 21},
@@ -68,8 +68,21 @@ public class ArrayHomWork {
 }
 	
 			
-
+*/
 		
+		int[][]ar = new int[7][7];
+		int num = 1 ;
+		for(int i =0; i< ar.length; i++) {
+			for(int j =0; j<ar[0].length; j++) {
+				ar[i][j] = num;
+				System.out.print(ar[i][j]+" ");
+				num++;
+			}
+			System.out.println();
+		}
+			
+	}
+	}	
 		
 
 

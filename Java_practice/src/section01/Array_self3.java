@@ -1,4 +1,4 @@
-package section06;
+package section01;
 
 //랜덤으로 숫자를 돌려주는 메서드
 //import java.util.Random;   // 패키지 안에 클래스가 있음- java.util안에 들어있는 Random 클래스 이라는 말.

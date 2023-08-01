@@ -1,4 +1,4 @@
-package section06;
+package section01;
 
 public class Array_self {
 	public static void main(String[] args) {
