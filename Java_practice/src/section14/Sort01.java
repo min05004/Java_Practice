@@ -14,7 +14,7 @@ package section14;
  * 3.버블정렬
  * 
  */
-public class Sort {
+public class Sort01 {
 	public static void main(String[] args) {
 		int min, tmp;
 		int ar[] = { 8, 1, 2, 5, 4, 3, 6, 7, };
